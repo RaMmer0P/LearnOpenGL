@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IRESC\\Learning\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|C:\\IRESC\\Learning\\OpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|C:\\IRESC\\Learning\\OpenGL\\temp\\TriangleandRextangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|solutionrelative:temp\\TriangleandRextangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|C:\\IRESC\\Learning\\OpenGL\\temp\\colorbuffer.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|solutionrelative:temp\\colorbuffer.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|C:\\IRESC\\Learning\\OpenGL\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D584BE03-0BE2-4F3C-B13C-20C0704D18DA}|OpenGL.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriangleandRextangle.cpp",
+              "DocumentMoniker": "C:\\IRESC\\Learning\\OpenGL\\temp\\TriangleandRextangle.cpp",
+              "RelativeDocumentMoniker": "temp\\TriangleandRextangle.cpp",
+              "ToolTip": "C:\\IRESC\\Learning\\OpenGL\\temp\\TriangleandRextangle.cpp",
+              "RelativeToolTip": "temp\\TriangleandRextangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T04:24:42.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "colorbuffer.cpp",
+              "DocumentMoniker": "C:\\IRESC\\Learning\\OpenGL\\temp\\colorbuffer.cpp",
+              "RelativeDocumentMoniker": "temp\\colorbuffer.cpp",
+              "ToolTip": "C:\\IRESC\\Learning\\OpenGL\\temp\\colorbuffer.cpp",
+              "RelativeToolTip": "temp\\colorbuffer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T04:42:45.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\IRESC\\Learning\\OpenGL\\glad.c",
+              "RelativeDocumentMoniker": "glad.c",
+              "ToolTip": "C:\\IRESC\\Learning\\OpenGL\\glad.c",
+              "RelativeToolTip": "glad.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-13T05:06:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\IRESC\\Learning\\OpenGL\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\IRESC\\Learning\\OpenGL\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T05:05:13.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
